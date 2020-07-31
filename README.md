@@ -25,15 +25,15 @@ I achieve this by either learning stuff or creating stuff daily.
 
 **My Story** : -
 
- - Learned C++ in my highschool for 2 years. Loved it and also excelled in its exam.
+ - Learned **C++** in my highschool for 2 years. Loved it and also excelled in its exam.
  - But still wanted to create applications that were fun use and create.
- - So learned Java from CS106a on YouTube. Loved Prof. Mehran Sahmi style of teaching. Completed all assignments.
- - Used *Head First Android development*Book  to learn Android Studio and created some projects.
- - Took a offline course on web development, learnt PHP, Javacript,HTML/CSS
- - I stumbled upon CS50. It uplifted my knowledge and quality of projects. Learnt Flask which i began to use in every project.
- - Took Deep Learning Coursera Specialization by Andrew Ng, Reinforcement Learning Specialization on Coursera.
- - Buzz and appreciation about React took me to it and loved it.
- - I considered game development challenging so i took the challenge and started using PyGame.
+ - So learned **Java** from CS106a on YouTube. Loved Prof. Mehran Sahmi style of teaching. Completed all assignments.
+ - Used *Head First Android development*Book  to learn **Android Studio** and created some projects.
+ - Took a offline course on web development, learnt **PHP, Javacript,HTML/CSS**.
+ - I stumbled upon CS50. It uplifted my knowledge and quality of projects. Learnt **Flask** which i began to use in every project.
+ - Took **Deep Learning** Coursera Specialization by Andrew Ng, **Reinforcement Learning** Specialization on Coursera.
+ - Buzz and appreciation about **React** took me to it and loved it.
+ - I considered **game development** challenging so i took the challenge and started using PyGame.
 
 So this was my story which will continue, I don't know why but.. yeah I wrote it.
 
