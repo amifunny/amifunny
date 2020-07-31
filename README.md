@@ -10,7 +10,7 @@ I achieve this by either learning stuff or creating stuff daily.
  - Will be creating 3D Games using Unity.
  - Participating in any competition that encompasses my skill set.
 
-Open-Source Projects - 
+**Open-Source Projects** - 
 
  - [tf-stitch](https://github.com/amifunny/tf-stitch) -  Pip Package to quick start deep learning projects.
  - Chrome-Extensions -
@@ -23,7 +23,7 @@ Open-Source Projects -
 - [Save-Your-Head Game](https://github.com/amifunny/Save-Your-Head) : My new interest making games. Do try it out.
 	 
 
-My Story : -
+**My Story** : -
 
  - Learned C++ in my highschool for 2 years. Loved it and also excelled in its exam.
  - But still wanted to create applications that were fun use and create.
@@ -36,5 +36,6 @@ My Story : -
  - I considered game development challenging so i took the challenge and started using PyGame.
 
 So this was my story which will continue, I don't know why but.. yeah I wrote it.
+
 **I am now looking for professional work oppurtunities.**
 
