@@ -1,7 +1,9 @@
-I am simple boy who got interested in programming and taught himself programming skills and continue to improve in that. I love the feeling of creating things and self-discovery.
+I am simple boy who got interested in programming and taught himself programming skills and continue to improve in that.
+I love the feeling of creating things and self-discovery.
 
 Coding for 4 Years and creating stuff for 2 Years now.
-![Alt Text](https://media.giphy.com/media/3oGRFkmoqoui9nzL2g/giphy.gif)
+
+<img align="center" width="100" height="100" src="https://media.giphy.com/media/3oGRFkmoqoui9nzL2g/giphy.gif">
 
 **My Aim** - Not to waste a single day of this provided life. 
 I achieve this by either learning stuff or creating stuff daily.
