@@ -22,7 +22,8 @@ I achieve this by either learning stuff or creating stuff daily.
 - [Reinforcement Learning](https://github.com/amifunny/Reinforce_Adventure) - Popular Algorithms of RL implemented in GYM
 - [Deep Learning](https://github.com/amifunny/Deep-Learning-Notebook) - I love DL. I won't call it research but I do tweaking and experimenting with Neural Networks.
 - [Save-Your-Head Game](https://github.com/amifunny/Save-Your-Head) : My new interest is making games. Do try it out.
-	 
+
+My DDPG tutorial on Keras website - https://keras.io/examples/rl/ddpg_pendulum/
 
 **My Story** : -
 
