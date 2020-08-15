@@ -1,6 +1,6 @@
 Hey, :partly_sunny:
 
-<img align="center" src="readme.JPG" />
+<img align="center" src="Readme.jpg" />
 
 I am a self-taught programmer, which means I am not taught by few handful of teachers in a class but thousands of people situated all around the world.
 
