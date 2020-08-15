@@ -1,7 +1,7 @@
 Hey, :partly_sunny:
 
 <p align="center">
-    <img src="Readme.png" alt="Image" width="800" height="350" />
+    <img src="https://github.com/amifunny/amifunny/blob/master/Readme.png" alt="Image" width="800" height="350" />
 </p>
 
 I am a self-taught programmer, which means I am not taught by few handful of teachers in a class but thousands of people situated all around the world.
