@@ -1,8 +1,8 @@
 Hey, :partly_sunny:
 
-<p align="center">
-    <img src="https://github.com/amifunny/amifunny/blob/master/Readme.png" alt="Image" width="800" height="350" />
-</p>
+*I don’t know who you are. I don’t know what you want.<br>
+If you are looking for some popular repository, I can tell you I don’t have one.<br><br>
+But what I do have are a very particular set of skills, skills I have acquired over a challenging and hard working career, skills that allow me create anything related to software and tackle programming problems, skills that i improve upon daily.*
 
 I am a self-taught programmer, which means I am not taught by few handful of teachers in a class but thousands of people situated all around the world.
 
