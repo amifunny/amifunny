@@ -4,9 +4,11 @@ Hey, :partly_sunny:
 If you are looking for some popular repository, I can tell you I don’t have one.<br><br>
 But what I do have are a very particular set of skills, skills I have acquired over a challenging and hard working career, skills that allow me create anything related to software and tackle programming problems, skills that i improve upon daily.*
 
+<hr/>
+
 I am a self-taught programmer, which means I am not taught by few handful of teachers in a class but thousands of people situated all around the world.
 
-I continue to improve upon my programming skills. I love the feeling of creating things and self-discovery.
+I love the feeling of creating things and self-discovery.
 
 **My Aim :dart:** - Not to waste a single day of this provided life.
 
