@@ -14,10 +14,23 @@ I love the feeling of creating things and self-discovery.
 
 I achieve this by either learning stuff or creating stuff daily.
 
+- **Key Programming Languages**
+
+<img src="https://img.shields.io/static/v1?label=&message=Javascipt&style=flat-square&color=5400ff" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=Python&style=flat-square&color=5400ff" height=25 />
+
+- **Also worked with**
+
+<img src="https://img.shields.io/static/v1?label=&message=C&style=flat-square&color=3eb58b" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&style=flat-square&color=3eb58b" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=C%23&style=flat-square&color=3eb58b" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=Python&style=flat-square&color=3eb58b" height=25 />
+
 **Skills & Tools :rocket:** -
 
- - **Full-Stack Web Development **
- <img src="https://img.shields.io/static/v1?label=&message=Javascript&style=flat-square&color=2bbc8a" height=25 />
+ - **Full-Stack Web Development**
+
+ <img src="https://img.shields.io/static/v1?label=&message=Javascript&style=flat-square&color=2bbc8a" height=25 /> 
  <img src="https://img.shields.io/static/v1?label=&message=React&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=Flask&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=MySQL&style=flat-square&color=2bbc8a" height=25 />
@@ -30,12 +43,14 @@ I achieve this by either learning stuff or creating stuff daily.
  <img src="https://img.shields.io/static/v1?label=&message=RESTful API&style=flat-square&color=2bbc8a" height=25 />
  
  
- - **Automation **
+ - **Automation**
+ 
  <img src="https://img.shields.io/static/v1?label=&message=Selenium&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=BeautifulSoup&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=Twilio&style=flat-square&color=2bbc8a" height=25 />
  
  - **Deep Learning/ Machine Learning**
+ 
  <img src="https://img.shields.io/static/v1?label=&message=Tensorflow&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=Numpy&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=Pandas&style=flat-square&color=2bbc8a" height=25 />
@@ -43,15 +58,16 @@ I achieve this by either learning stuff or creating stuff daily.
  
  - **Chrome Extension Development**
  - **Game Development**
+
  <img src="https://img.shields.io/static/v1?label=&message=PyGame&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=Unity3D&style=flat-square&color=2bbc8a" height=25 />
  
  - **Other**
+ 
  <img src="https://img.shields.io/static/v1?label=&message=CI/CD&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=Git&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=AWS&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=Docker&style=flat-square&color=2bbc8a" height=25 />
-
 **Projects** - 
 
  - [tf-stitch](https://github.com/amifunny/tf-stitch) -  Pip Package to quick start deep learning projects.
