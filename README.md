@@ -16,8 +16,41 @@ I achieve this by either learning stuff or creating stuff daily.
 
 **Skills & Tools :rocket:** -
 
- ![](https://img.shields.io/static/v1?message=Javascript&style=for-the-badge&color=2bbc8a)
-
+ - **Full-Stack Web Development **
+ <img src="https://img.shields.io/static/v1?label=&message=Javascript&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=React&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=Flask&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=MySQL&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=Node.js&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=MongoDB&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=jQuery&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=HTML/CSS&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=SASS&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=oAuth&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=RESTful API&style=flat-square&color=2bbc8a" height=25 />
+ 
+ 
+ - **Automation **
+ <img src="https://img.shields.io/static/v1?label=&message=Selenium&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=BeautifulSoup&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=Twilio&style=flat-square&color=2bbc8a" height=25 />
+ 
+ - **Deep Learning/ Machine Learning**
+ <img src="https://img.shields.io/static/v1?label=&message=Tensorflow&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=Numpy&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=Pandas&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=Scikit-learn&style=flat-square&color=2bbc8a" height=25 />
+ 
+ - **Chrome Extension Development**
+ - **Game Development**
+ <img src="https://img.shields.io/static/v1?label=&message=PyGame&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=Unity3D&style=flat-square&color=2bbc8a" height=25 />
+ 
+ - **Other**
+ <img src="https://img.shields.io/static/v1?label=&message=CI/CD&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=Git&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=AWS&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=Docker&style=flat-square&color=2bbc8a" height=25 />
 
 **Projects** - 
 
