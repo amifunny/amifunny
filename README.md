@@ -28,13 +28,13 @@ I achieve this by either learning stuff or creating stuff daily.
 
 **Skills & Tools :rocket:** -
 
- - **Full-Stack Web Development**
+- **Full-Stack Web Development**
 
- <img src="https://img.shields.io/static/v1?label=&message=Javascript&style=flat-square&color=2bbc8a" height=25 /> 
- <img src="https://img.shields.io/static/v1?label=&message=React&style=flat-square&color=2bbc8a" height=25 />
- <img src="https://img.shields.io/static/v1?label=&message=Flask&style=flat-square&color=2bbc8a" height=25 />
- <img src="https://img.shields.io/static/v1?label=&message=MySQL&style=flat-square&color=2bbc8a" height=25 />
- <img src="https://img.shields.io/static/v1?label=&message=Node.js&style=flat-square&color=2bbc8a" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=Javascript&style=flat-square&color=2bbc8a" height=25 /> 
+<img src="https://img.shields.io/static/v1?label=&message=React&style=flat-square&color=2bbc8a" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=Flask&style=flat-square&color=2bbc8a" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=MySQL&style=flat-square&color=2bbc8a" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=Node.js&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=MongoDB&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=jQuery&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=HTML/CSS&style=flat-square&color=2bbc8a" height=25 />
