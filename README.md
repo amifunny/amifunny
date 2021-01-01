@@ -14,13 +14,13 @@ I love the feeling of creating things and self-discovery.
 
 I achieve this by either learning stuff or creating stuff daily.
 
-- **Key Programming Languages**
+**Key Programming Languages**
 <p>
 <img src="https://img.shields.io/static/v1?label=&message=Javascipt&style=flat-square&color=5400ff" height=25 />
 <img src="https://img.shields.io/static/v1?label=&message=Python&style=flat-square&color=5400ff" height=25 />
 </p>
 	
-- **Also worked with**
+**Also worked with**
 <p>
 <img src="https://img.shields.io/static/v1?label=&message=C&style=flat-square&color=0445af" height=25 />
 <img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&style=flat-square&color=0445af" height=25 />
@@ -32,12 +32,13 @@ I achieve this by either learning stuff or creating stuff daily.
 
 - **Full-Stack Web Development**
 <p>
-<img src="https://img.shields.io/static/v1?label=&message=Javascript&style=flat-square&color=2bbc8a" height=25 /> 
 <img src="https://img.shields.io/static/v1?label=&message=React&style=flat-square&color=2bbc8a" height=25 />
 <img src="https://img.shields.io/static/v1?label=&message=Flask&style=flat-square&color=2bbc8a" height=25 />
 <img src="https://img.shields.io/static/v1?label=&message=MySQL&style=flat-square&color=2bbc8a" height=25 />
 <img src="https://img.shields.io/static/v1?label=&message=Node.js&style=flat-square&color=2bbc8a" height=25 />
 <img src="https://img.shields.io/static/v1?label=&message=MongoDB&style=flat-square&color=2bbc8a" height=25 />
+</p>
+<p>
 <img src="https://img.shields.io/static/v1?label=&message=jQuery&style=flat-square&color=2bbc8a" height=25 />
 <img src="https://img.shields.io/static/v1?label=&message=HTML/CSS&style=flat-square&color=2bbc8a" height=25 />
 <img src="https://img.shields.io/static/v1?label=&message=SASS&style=flat-square&color=2bbc8a" height=25 />
@@ -53,12 +54,12 @@ I achieve this by either learning stuff or creating stuff daily.
  </p>
  
  - **Deep Learning/ Machine Learning**
- 
+ <p>
  <img src="https://img.shields.io/static/v1?label=&message=Tensorflow&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=Numpy&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=Pandas&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=Scikit-learn&style=flat-square&color=2bbc8a" height=25 />
- 
+ </p
  - **Chrome Extension Development**
  
  - **Game Development**
