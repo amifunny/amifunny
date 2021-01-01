@@ -15,39 +15,42 @@ I love the feeling of creating things and self-discovery.
 I achieve this by either learning stuff or creating stuff daily.
 
 - **Key Programming Languages**
-
+<p>
 <img src="https://img.shields.io/static/v1?label=&message=Javascipt&style=flat-square&color=5400ff" height=25 />
 <img src="https://img.shields.io/static/v1?label=&message=Python&style=flat-square&color=5400ff" height=25 />
-
+</p>
+	
 - **Also worked with**
-
+<p>
 <img src="https://img.shields.io/static/v1?label=&message=C&style=flat-square&color=0445af" height=25 />
 <img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&style=flat-square&color=0445af" height=25 />
 <img src="https://img.shields.io/static/v1?label=&message=C%23&style=flat-square&color=0445af" height=25 />
 <img src="https://img.shields.io/static/v1?label=&message=Python&style=flat-square&color=0445af" height=25 />
+</p>
 
 **Skills & Tools :rocket:** -
 
 - **Full-Stack Web Development**
-
+<p>
 <img src="https://img.shields.io/static/v1?label=&message=Javascript&style=flat-square&color=2bbc8a" height=25 /> 
 <img src="https://img.shields.io/static/v1?label=&message=React&style=flat-square&color=2bbc8a" height=25 />
 <img src="https://img.shields.io/static/v1?label=&message=Flask&style=flat-square&color=2bbc8a" height=25 />
 <img src="https://img.shields.io/static/v1?label=&message=MySQL&style=flat-square&color=2bbc8a" height=25 />
 <img src="https://img.shields.io/static/v1?label=&message=Node.js&style=flat-square&color=2bbc8a" height=25 />
- <img src="https://img.shields.io/static/v1?label=&message=MongoDB&style=flat-square&color=2bbc8a" height=25 />
- <img src="https://img.shields.io/static/v1?label=&message=jQuery&style=flat-square&color=2bbc8a" height=25 />
- <img src="https://img.shields.io/static/v1?label=&message=HTML/CSS&style=flat-square&color=2bbc8a" height=25 />
- <img src="https://img.shields.io/static/v1?label=&message=SASS&style=flat-square&color=2bbc8a" height=25 />
- <img src="https://img.shields.io/static/v1?label=&message=oAuth&style=flat-square&color=2bbc8a" height=25 />
- <img src="https://img.shields.io/static/v1?label=&message=RESTful%20API&style=flat-square&color=2bbc8a" height=25 />
- 
+<img src="https://img.shields.io/static/v1?label=&message=MongoDB&style=flat-square&color=2bbc8a" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=jQuery&style=flat-square&color=2bbc8a" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=HTML/CSS&style=flat-square&color=2bbc8a" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=SASS&style=flat-square&color=2bbc8a" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=oAuth&style=flat-square&color=2bbc8a" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=RESTful%20API&style=flat-square&color=2bbc8a" height=25 />
+</p> 
  
  - **Automation**
- 
+ <p>
  <img src="https://img.shields.io/static/v1?label=&message=Selenium&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=BeautifulSoup&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=Twilio&style=flat-square&color=2bbc8a" height=25 />
+ </p>
  
  - **Deep Learning/ Machine Learning**
  
@@ -59,16 +62,18 @@ I achieve this by either learning stuff or creating stuff daily.
  - **Chrome Extension Development**
  
  - **Game Development**
+<p>
+<img src="https://img.shields.io/static/v1?label=&message=PyGame&style=flat-square&color=2bbc8a" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=Unity3D&style=flat-square&color=2bbc8a" height=25 />
+</p>
 
- <img src="https://img.shields.io/static/v1?label=&message=PyGame&style=flat-square&color=2bbc8a" height=25 />
- <img src="https://img.shields.io/static/v1?label=&message=Unity3D&style=flat-square&color=2bbc8a" height=25 />
- 
  - **Other**
- 
- <img src="https://img.shields.io/static/v1?label=&message=CI/CD&style=flat-square&color=2bbc8a" height=25 />
- <img src="https://img.shields.io/static/v1?label=&message=Git&style=flat-square&color=2bbc8a" height=25 />
- <img src="https://img.shields.io/static/v1?label=&message=AWS&style=flat-square&color=2bbc8a" height=25 />
- <img src="https://img.shields.io/static/v1?label=&message=Docker&style=flat-square&color=2bbc8a" height=25 />
+<p> 
+<img src="https://img.shields.io/static/v1?label=&message=CI/CD&style=flat-square&color=2bbc8a" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=Git&style=flat-square&color=2bbc8a" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=AWS&style=flat-square&color=2bbc8a" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=Docker&style=flat-square&color=2bbc8a" height=25 />
+</p>
 
 **Projects** - 
 
