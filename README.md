@@ -22,8 +22,8 @@ I achieve this by either learning stuff or creating stuff daily.
 	
 **Also worked with**
 <p>
-<img src="https://img.shields.io/static/v1?label=&message=C&style=flat-square&color=0445af" height=25 />
-<img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&style=flat-square&color=0445af" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=C&style=flat-square&color=0445af"/>
+<img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&style=flat-square&color=0445af"/>
 <img src="https://img.shields.io/static/v1?label=&message=C%23&style=flat-square&color=0445af"/>
 <img src="https://img.shields.io/static/v1?label=&message=Python&style=flat-square&color=0445af"/>
 </p>
@@ -59,7 +59,7 @@ I achieve this by either learning stuff or creating stuff daily.
  <img src="https://img.shields.io/static/v1?label=&message=Numpy&style=flat-square&color=2bbc8a"/>
  <img src="https://img.shields.io/static/v1?label=&message=Pandas&style=flat-square&color=2bbc8a"/>
  <img src="https://img.shields.io/static/v1?label=&message=Scikit-learn&style=flat-square&color=2bbc8a" />
- </p
+ </p>
  
  - **Chrome Extension Development**
  
