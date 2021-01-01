@@ -21,10 +21,10 @@ I achieve this by either learning stuff or creating stuff daily.
 
 - **Also worked with**
 
-<img src="https://img.shields.io/static/v1?label=&message=C&style=flat-square&color=3eb58b" height=25 />
-<img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&style=flat-square&color=3eb58b" height=25 />
-<img src="https://img.shields.io/static/v1?label=&message=C%23&style=flat-square&color=3eb58b" height=25 />
-<img src="https://img.shields.io/static/v1?label=&message=Python&style=flat-square&color=3eb58b" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=C&style=flat-square&color=0445af" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&style=flat-square&color=0445af" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=C%23&style=flat-square&color=0445af" height=25 />
+<img src="https://img.shields.io/static/v1?label=&message=Python&style=flat-square&color=0445af" height=25 />
 
 **Skills & Tools :rocket:** -
 
@@ -40,7 +40,7 @@ I achieve this by either learning stuff or creating stuff daily.
  <img src="https://img.shields.io/static/v1?label=&message=HTML/CSS&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=SASS&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=oAuth&style=flat-square&color=2bbc8a" height=25 />
- <img src="https://img.shields.io/static/v1?label=&message=RESTful API&style=flat-square&color=2bbc8a" height=25 />
+ <img src="https://img.shields.io/static/v1?label=&message=RESTful%20API&style=flat-square&color=2bbc8a" height=25 />
  
  
  - **Automation**
@@ -57,6 +57,7 @@ I achieve this by either learning stuff or creating stuff daily.
  <img src="https://img.shields.io/static/v1?label=&message=Scikit-learn&style=flat-square&color=2bbc8a" height=25 />
  
  - **Chrome Extension Development**
+ 
  - **Game Development**
 
  <img src="https://img.shields.io/static/v1?label=&message=PyGame&style=flat-square&color=2bbc8a" height=25 />
@@ -68,6 +69,7 @@ I achieve this by either learning stuff or creating stuff daily.
  <img src="https://img.shields.io/static/v1?label=&message=Git&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=AWS&style=flat-square&color=2bbc8a" height=25 />
  <img src="https://img.shields.io/static/v1?label=&message=Docker&style=flat-square&color=2bbc8a" height=25 />
+
 **Projects** - 
 
  - [tf-stitch](https://github.com/amifunny/tf-stitch) -  Pip Package to quick start deep learning projects.
