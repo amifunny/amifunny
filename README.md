@@ -14,13 +14,13 @@ I love the feeling of creating things and self-discovery.
 
 I achieve this by either learning stuff or creating stuff daily.
 
-**Key Programming Languages**
+**Key Programming Languages -**
 <p>
 <img src="https://img.shields.io/static/v1?label=&message=Javascipt&style=flat-square&color=5400ff"/>
 <img src="https://img.shields.io/static/v1?label=&message=Python&style=flat-square&color=5400ff"/>
 </p>
 	
-**Also worked with**
+**Also worked with -**
 <p>
 <img src="https://img.shields.io/static/v1?label=&message=C&style=flat-square&color=0445af"/>
 <img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&style=flat-square&color=0445af"/>
