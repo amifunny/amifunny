@@ -14,12 +14,12 @@ I love the feeling of creating things and self-discovery.
 
 I achieve this by either learning stuff or creating stuff daily.
 
-**Current Interests :rocket:** -
+**Skills & Tools :rocket:** -
 
- - Will be creating 3D Games using Unity.
- - Participating in any competition that encompasses my skill set.
+ ![](https://img.shields.io/static/v1?message=Javascript&style=for-the-badge&color=2bbc8a)
 
-**Open-Source Projects** - 
+
+**Projects** - 
 
  - [tf-stitch](https://github.com/amifunny/tf-stitch) -  Pip Package to quick start deep learning projects.
  - Chrome-Extensions -
@@ -33,6 +33,5 @@ I achieve this by either learning stuff or creating stuff daily.
 
 My DDPG tutorial on Keras website - https://keras.io/examples/rl/ddpg_pendulum/
 
-**I am now looking for professional work opportunities. Feel Free to contact at - amifunny.pro@gmail.com** 
-
 PS : If you want to ask anything, literally anything, or share a thought or just say hi, email me.
+**Feel Free to contact me at - amifunny.pro@gmail.com** 
