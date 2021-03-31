@@ -49,10 +49,10 @@ I achieve this by either learning stuff or creating stuff daily.
  
  - **Deep Learning/ Machine Learning**
  <p>
- <img src="https://img.shields.io/static/v1?label=&message=Tensorflow&style=flat-square&color=fd9d75"/>
- <img src="https://img.shields.io/static/v1?label=&message=Numpy&style=flat-square&color=fd9d75"/>
- <img src="https://img.shields.io/static/v1?label=&message=Pandas&style=flat-square&color=fd9d75"/>
- <img src="https://img.shields.io/static/v1?label=&message=Scikit-learn&style=flat-square&color=fd9d75" />
+ <img src="https://img.shields.io/static/v1?label=&message=Tensorflow&style=flat-square&color=d65d2a"/>
+ <img src="https://img.shields.io/static/v1?label=&message=Numpy&style=flat-square&color=d65d2a"/>
+ <img src="https://img.shields.io/static/v1?label=&message=Pandas&style=flat-square&color=d65d2a"/>
+ <img src="https://img.shields.io/static/v1?label=&message=Scikit-learn&style=flat-square&color=d65d2a" />
  </p>
  
  - **Chrome Extension Development**
