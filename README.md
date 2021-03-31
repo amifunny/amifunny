@@ -26,18 +26,18 @@ I achieve this by either learning stuff or creating stuff daily.
 
 - **Full-Stack Web Development**
 <p>
-<img src="https://img.shields.io/static/v1?label=&message=React&style=flat-square&color=2bbc8a"/>
-<img src="https://img.shields.io/static/v1?label=&message=Flask&style=flat-square&color=2bbc8a"/>
-<img src="https://img.shields.io/static/v1?label=&message=MySQL&style=flat-square&color=2bbc8a"/>
-<img src="https://img.shields.io/static/v1?label=&message=Node.js&style=flat-square&color=2bbc8a"/>
-<img src="https://img.shields.io/static/v1?label=&message=MongoDB&style=flat-square&color=2bbc8a"/>
+<img src="https://img.shields.io/static/v1?label=&message=React&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=Flask&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=MySQL&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=Node.js&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=MongoDB&style=flat-square&color=009662"/>
 </p>
 <p>
-<img src="https://img.shields.io/static/v1?label=&message=jQuery&style=flat-square&color=2bbc8a"/>
-<img src="https://img.shields.io/static/v1?label=&message=HTML/CSS&style=flat-square&color=2bbc8a"/>
-<img src="https://img.shields.io/static/v1?label=&message=SASS&style=flat-square&color=2bbc8a"/>
-<img src="https://img.shields.io/static/v1?label=&message=oAuth&style=flat-square&color=2bbc8a"/>
-<img src="https://img.shields.io/static/v1?label=&message=RESTful%20API&style=flat-square&color=2bbc8a"/>
+<img src="https://img.shields.io/static/v1?label=&message=jQuery&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=HTML/CSS&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=SASS&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=oAuth&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=RESTful%20API&style=flat-square&color=009662"/>
 </p> 
  
  - **Automation**
@@ -59,8 +59,8 @@ I achieve this by either learning stuff or creating stuff daily.
  
  - **Game Development**
 <p>
-<img src="https://img.shields.io/static/v1?label=&message=PyGame&style=flat-square&color=ffb800"/>
-<img src="https://img.shields.io/static/v1?label=&message=Unity3D&style=flat-square&color=ffb800"/>
+<img src="https://img.shields.io/static/v1?label=&message=PyGame&style=flat-square&color=ca0989"/>
+<img src="https://img.shields.io/static/v1?label=&message=Unity3D&style=flat-square&color=ca0989"/>
 </p>
 
  - **Other**
