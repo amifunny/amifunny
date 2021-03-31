@@ -59,8 +59,8 @@ I achieve this by either learning stuff or creating stuff daily.
  
  - **Game Development**
 <p>
-<img src="https://img.shields.io/static/v1?label=&message=PyGame&style=flat-square&color=2bbc8a"/>
-<img src="https://img.shields.io/static/v1?label=&message=Unity3D&style=flat-square&color=2bbc8a"/>
+<img src="https://img.shields.io/static/v1?label=&message=PyGame&style=flat-square&color=ffb800cc"/>
+<img src="https://img.shields.io/static/v1?label=&message=Unity3D&style=flat-square&color=ffb800cc"/>
 </p>
 
  - **Other**
