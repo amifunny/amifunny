@@ -42,17 +42,17 @@ I achieve this by either learning stuff or creating stuff daily.
  
  - **Automation**
  <p>
- <img src="https://img.shields.io/static/v1?label=&message=Selenium&style=flat-square&color=2bbc8a"/>
- <img src="https://img.shields.io/static/v1?label=&message=BeautifulSoup&style=flat-square&color=2bbc8a"/>
- <img src="https://img.shields.io/static/v1?label=&message=Twilio&style=flat-square&color=2bbc8a"/>
+ <img src="https://img.shields.io/static/v1?label=&message=Selenium&style=flat-square&color=fa5456"/>
+ <img src="https://img.shields.io/static/v1?label=&message=BeautifulSoup&style=flat-square&color=fa5456"/>
+ <img src="https://img.shields.io/static/v1?label=&message=Twilio&style=flat-square&color=fa5456"/>
  </p>
  
  - **Deep Learning/ Machine Learning**
  <p>
- <img src="https://img.shields.io/static/v1?label=&message=Tensorflow&style=flat-square&color=2bbc8a"/>
- <img src="https://img.shields.io/static/v1?label=&message=Numpy&style=flat-square&color=2bbc8a"/>
- <img src="https://img.shields.io/static/v1?label=&message=Pandas&style=flat-square&color=2bbc8a"/>
- <img src="https://img.shields.io/static/v1?label=&message=Scikit-learn&style=flat-square&color=2bbc8a" />
+ <img src="https://img.shields.io/static/v1?label=&message=Tensorflow&style=flat-square&color=fd9d75"/>
+ <img src="https://img.shields.io/static/v1?label=&message=Numpy&style=flat-square&color=fd9d75"/>
+ <img src="https://img.shields.io/static/v1?label=&message=Pandas&style=flat-square&color=fd9d75"/>
+ <img src="https://img.shields.io/static/v1?label=&message=Scikit-learn&style=flat-square&color=fd9d75" />
  </p>
  
  - **Chrome Extension Development**
