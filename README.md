@@ -1,12 +1,6 @@
 Hey, :partly_sunny:
 
-I am a self-taught programmer, which means I am not taught by few handful of teachers in a class but thousands of people situated all around the world.
-
-I love the feeling of creating things and self-discovery.
-
-**My Aim :dart:** - Not to waste a single day of this provided life.
-
-I achieve this by either learning stuff or creating stuff daily.
+Thanks for stopping by. Feel free to explore my repos.
 
 **Key Programming Languages -**
 <p>
