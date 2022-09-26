@@ -10,10 +10,8 @@ Thanks for stopping by. Feel free to explore my repos.
 	
 **Also worked with -**
 <p>
-<img src="https://img.shields.io/static/v1?label=&message=C&style=flat-square&color=0445af"/>
 <img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&style=flat-square&color=0445af"/>
-<img src="https://img.shields.io/static/v1?label=&message=C%23&style=flat-square&color=0445af"/>
-<img src="https://img.shields.io/static/v1?label=&message=Python&style=flat-square&color=0445af"/>
+<img src="https://img.shields.io/static/v1?label=&message=Java&style=flat-square&color=0445af"/>
 </p>
 
 **Skills & Tools :rocket:** -
@@ -21,27 +19,23 @@ Thanks for stopping by. Feel free to explore my repos.
 - **Full-Stack Web Development**
 <p>
 <img src="https://img.shields.io/static/v1?label=&message=React&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=Django&style=flat-square&color=009662"/>
 <img src="https://img.shields.io/static/v1?label=&message=Flask&style=flat-square&color=009662"/>
-<img src="https://img.shields.io/static/v1?label=&message=MySQL&style=flat-square&color=009662"/>
 <img src="https://img.shields.io/static/v1?label=&message=Node.js&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=ExpressJS&style=flat-square&color=009662"/>
 <img src="https://img.shields.io/static/v1?label=&message=MongoDB&style=flat-square&color=009662"/>
 </p>
 <p>
-<img src="https://img.shields.io/static/v1?label=&message=jQuery&style=flat-square&color=009662"/>
-<img src="https://img.shields.io/static/v1?label=&message=HTML/CSS&style=flat-square&color=009662"/>
-<img src="https://img.shields.io/static/v1?label=&message=SASS&style=flat-square&color=009662"/>
-<img src="https://img.shields.io/static/v1?label=&message=oAuth&style=flat-square&color=009662"/>
-<img src="https://img.shields.io/static/v1?label=&message=RESTful%20API&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=MySQL&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=Firebase&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=Firebase&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=Jquery&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=Bootstrap&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=HTML&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=CSS&style=flat-square&color=009662"/>
 </p> 
  
- - **Automation**
- <p>
- <img src="https://img.shields.io/static/v1?label=&message=Selenium&style=flat-square&color=fa5456"/>
- <img src="https://img.shields.io/static/v1?label=&message=BeautifulSoup&style=flat-square&color=fa5456"/>
- <img src="https://img.shields.io/static/v1?label=&message=Twilio&style=flat-square&color=fa5456"/>
- </p>
- 
- - **Deep Learning/ Machine Learning**
+ - **Machine Learning**
  <p>
  <img src="https://img.shields.io/static/v1?label=&message=Tensorflow&style=flat-square&color=d65d2a"/>
  <img src="https://img.shields.io/static/v1?label=&message=Numpy&style=flat-square&color=d65d2a"/>
@@ -51,23 +45,24 @@ Thanks for stopping by. Feel free to explore my repos.
  
  - **Chrome Extension Development**
  
- - **Game Development**
-<p>
-<img src="https://img.shields.io/static/v1?label=&message=PyGame&style=flat-square&color=ca0989"/>
-<img src="https://img.shields.io/static/v1?label=&message=Unity3D&style=flat-square&color=ca0989"/>
-</p>
-
  - **Other**
-<p> 
-<img src="https://img.shields.io/static/v1?label=&message=CI/CD&style=flat-square&color=008bd7"/>
-<img src="https://img.shields.io/static/v1?label=&message=Git&style=flat-square&color=008bd7"/>
-<img src="https://img.shields.io/static/v1?label=&message=AWS&style=flat-square&color=008bd7" />
+<p>
+<img src="https://img.shields.io/static/v1?label=&message=Selenium&style=flat-square&color=008bd7"/>
+<img src="https://img.shields.io/static/v1?label=&message=Twilio&style=flat-square&color=008bd7"/>
+<img src="https://img.shields.io/static/v1?label=&message=Postman&style=flat-square&color=008bd7" />
+<img src="https://img.shields.io/static/v1?label=&message=Git&style=flat-square&color=008bd7" />
 <img src="https://img.shields.io/static/v1?label=&message=Docker&style=flat-square&color=008bd7" />
+<img src="https://img.shields.io/static/v1?label=&message=Pygame&style=flat-square&color=008bd7" />
+<img src="https://img.shields.io/static/v1?label=&message=Unity3D&style=flat-square&color=008bd7" />
 </p>
 
 **Projects** - 
 
- - [tf-stitch](https://github.com/amifunny/tf-stitch) -  Pip Package to quick start deep learning projects.
+- [PetSpot](https://github.com/amifunny/PetSpot) - Pet Owners' Social Networking application
+- [Trend Store](https://github.com/amifunny/trend-store) - An online shopping app using Django
+- [Pro-Manage](https://github.com/amifunny/pro-manage) - An Kanban Board application to manage projects
+- [HorcruxZ](https://github.com/amifunny/HorcruxZ) - A FPS Shooter with Horcruxes to protect and kill zombies
+- [tf-stitch](https://github.com/amifunny/tf-stitch) -  Pip Package to quick start deep learning projects.
  - Chrome-Extensions -
 	 - [Dark-Mode-Chrome](https://github.com/amifunny/Dark_Mode_Chrome) : Makes reading easy in dark on any website.
 	- [Scrape-Pad](https://github.com/amifunny/Scrape-Pad-Browser-Extension) : Quickly take down notes and create a document.
