@@ -21,6 +21,7 @@ My portfolio website - https://amifunny.github.io/
 - **Full-Stack Web Development**
 <p>
 <img src="https://img.shields.io/static/v1?label=&message=React&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=Redux&style=flat-square&color=009662"/>
 <img src="https://img.shields.io/static/v1?label=&message=Django&style=flat-square&color=009662"/>
 <img src="https://img.shields.io/static/v1?label=&message=Flask&style=flat-square&color=009662"/>
 <img src="https://img.shields.io/static/v1?label=&message=Node.js&style=flat-square&color=009662"/>
