@@ -63,7 +63,7 @@ My portfolio website - https://amifunny.github.io/
 
 - [PetSpot](https://github.com/amifunny/PetSpot) - Pet Owners' Social Networking application
 - [Trend Store](https://github.com/amifunny/trend-store) - An online shopping app using Django
-- [Pro-Manage](https://github.com/amifunny/pro-manage) - An Kanban Board application to manage projects
+- [Pro-Manage](https://github.com/amifunny/pro-manage) - A Kanban Board application to manage projects
 - [HorcruxZ](https://github.com/amifunny/HorcruxZ) - A FPS Shooter with Horcruxes to protect and kill zombies
 - [tf-stitch](https://github.com/amifunny/tf-stitch) -  Pip Package to quick start deep learning projects.
  - Chrome-Extensions -
