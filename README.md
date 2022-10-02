@@ -79,4 +79,4 @@ My portfolio website - https://amifunny.github.io/
 My DDPG tutorial on Keras website - https://keras.io/examples/rl/ddpg_pendulum/
 
 PS : If you want to ask anything, literally anything, or share a thought or just say hi, email me.
-**Feel Free to contact me at - amifunny.pro@gmail.com** 
+**Feel Free to contact me at - hemantsingh.buenodev@gmail.com** 
