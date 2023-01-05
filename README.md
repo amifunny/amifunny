@@ -2,8 +2,6 @@ Hey, :partly_sunny:
 
 Thanks for stopping by. Feel free to explore my repos.
 
-My portfolio website - https://amifunny.github.io/
-
 **Key Programming Languages -**
 <p>
 <img src="https://img.shields.io/static/v1?label=&message=Javascipt&style=flat-square&color=5400ff"/>
