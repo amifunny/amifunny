@@ -75,6 +75,3 @@ Thanks for stopping by. Feel free to explore my repos.
 - [CommentX](https://github.com/amifunny/CommentX) : A Chrome extension to read and write comments on any web url. It is a complete discussion platform in form of extension.
 
 My DDPG tutorial on Keras website - https://keras.io/examples/rl/ddpg_pendulum/
-
-PS : If you want to ask anything, literally anything, or share a thought or just say hi, email me.
-**Feel Free to contact me at - hemantsingh.buenodev@gmail.com** 
