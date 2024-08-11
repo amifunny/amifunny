@@ -18,6 +18,9 @@ Thanks for stopping by. Feel free to explore my repos.
 
 - **Full-Stack Web Development**
 <p>
+<img src="https://img.shields.io/static/v1?label=&message=Vue&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=Nuxt&style=flat-square&color=009662"/>
+<img src="https://img.shields.io/static/v1?label=&message=NestJS&style=flat-square&color=009662"/>
 <img src="https://img.shields.io/static/v1?label=&message=React&style=flat-square&color=009662"/>
 <img src="https://img.shields.io/static/v1?label=&message=Redux&style=flat-square&color=009662"/>
 <img src="https://img.shields.io/static/v1?label=&message=Django&style=flat-square&color=009662"/>
