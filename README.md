@@ -1,6 +1,6 @@
 Hey, :partly_sunny:
 
-Thanks for stopping by. Feel free to explore my repos.
+Thanks for stopping by. Feel free to explore my repos and view my resume - https://drive.google.com/file/d/17_cFVrzhB1egVfm5BVdCkbbOnNFdGwMN/view?usp=sharing
 
 **Key Programming Languages -**
 <p>
