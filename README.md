@@ -1,7 +1,7 @@
 Hey, :partly_sunny:
 
 Thanks for stopping by. Feel free to explore my repos and view my resume -
-<a href="https://drive.google.com/file/d/1ap-umGz1cxqbseno9buNBw1WCePFgUUE/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume Link</a>
+https://drive.google.com/file/d/1ap-umGz1cxqbseno9buNBw1WCePFgUUE/view?usp=sharing
 
 <p align="center">
   <img src="./assets/memes/welcome-to-matrix.png" width="340" alt="welcome-to-the-matrix"/>
