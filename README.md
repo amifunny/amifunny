@@ -2,10 +2,8 @@ Hey, :partly_sunny:
 
 Thanks for stopping by. Feel free to explore my repos and view my resume - https://drive.google.com/file/d/1ap-umGz1cxqbseno9buNBw1WCePFgUUE/view?usp=sharing
 
-<h3 align="center">🟢 Welcome to the Matrix 🟢</h3>
-
 <p align="center">
-  <img src="./assets/memes/welcome-to-matrix.png" width="520" alt="welcome-to-the-matrix"/>
+  <img src="./assets/memes/welcome-to-matrix.png" width="340" alt="welcome-to-the-matrix"/>
 </p>
 
 <p align="center">
@@ -36,11 +34,11 @@ Thanks for stopping by. Feel free to explore my repos and view my resume - https
 <img src="https://img.shields.io/static/v1?label=&message=SQL&style=flat-square&color=0445af"/>
 </p>
 
-<p align="center">
-  <img src="./assets/memes/i-know-kung-fu.png" width="520" alt="i-know-kung-fu-meme"/>
-</p>
-
 **Skills & Tools :rocket:** -
+
+<p align="center">
+  <img src="./assets/memes/i-know-kung-fu.png" width="340" alt="i-know-kung-fu-meme"/>
+</p>
 
 - **Full-Stack Web Development**
 <p>
@@ -80,21 +78,28 @@ Thanks for stopping by. Feel free to explore my repos and view my resume - https
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Farmer_meme_with_apostrophe.jpg/1280px-Farmer_meme_with_apostrophe.jpg" width="340" alt="debug-meme"/>
 </p>
 
-- [GovSimAI](https://github.com/amifunny/GovSimAI) - Multi-agent public-policy evaluator with judge agents and MCP adapters
-- [InterviewerOS](https://github.com/amifunny/InterviewerOS) - AI mock interview platform with voice flow and performance reports
-- [PetSpot](https://github.com/amifunny/PetSpot) - Pet Owners' social networking application
-- [Trend Store](https://github.com/amifunny/trend-store) - E-commerce app using Django
-- [Pro-Manage](https://github.com/amifunny/pro-manage) - Kanban board app to manage projects
-- [HorcruxZ](https://github.com/amifunny/HorcruxZ) - FPS shooter with Horcruxes and zombie survival gameplay
-- [Save-Your-Head](https://github.com/amifunny/Save-Your-Head) - Arcade-style game project built with Unity
-- [tf-stitch](https://github.com/amifunny/tf-stitch) - Pip package to quick-start deep learning projects
-- [Piano-Synth](https://github.com/amifunny/Piano-Synth) - Virtual piano with deep learning assist
-- [Recommendation System](https://github.com/amifunny/likely) - SVD, KNN and bandits for movie recommendations
-- [Reinforcement Learning](https://github.com/amifunny/Reinforce_Adventure) - Popular RL algorithms implemented in Gym
+<ul>
+  <li><a href="https://github.com/amifunny/GovSimAI">GovSimAI</a> - Multi-agent public-policy evaluator with judge agents and MCP adapters</li>
+  <li><a href="https://github.com/amifunny/InterviewerOS">InterviewerOS</a> - AI mock interview platform with voice flow and performance reports</li>
+  <li><a href="https://github.com/amifunny/PetSpot">PetSpot</a> - Pet Owners' social networking application</li>
+  <li><a href="https://github.com/amifunny/trend-store">Trend Store</a> - E-commerce app using Django</li>
+  <li><a href="https://github.com/amifunny/pro-manage">Pro-Manage</a> - Kanban board app to manage projects</li>
+  <li><a href="https://github.com/amifunny/HorcruxZ">HorcruxZ</a> - FPS shooter with Horcruxes and zombie survival gameplay</li>
+  <li><a href="https://github.com/amifunny/Save-Your-Head">Save-Your-Head</a> - Arcade-style game project built with Unity</li>
+  <li><a href="https://github.com/amifunny/tf-stitch">tf-stitch</a> - Pip package to quick-start deep learning projects</li>
+  <li><a href="https://github.com/amifunny/Piano-Synth">Piano-Synth</a> - Virtual piano with deep learning assist</li>
+  <li><a href="https://github.com/amifunny/likely">Recommendation System</a> - SVD, KNN and bandits for movie recommendations</li>
+  <li><a href="https://github.com/amifunny/Reinforce_Adventure">Reinforcement Learning</a> - Popular RL algorithms implemented in Gym</li>
+</ul>
 
-- Chrome Extensions -
-  - [Dark-Mode-Chrome](https://github.com/amifunny/Dark_Mode_Chrome) : Makes reading easy in dark on any website
-  - [Scrape-Pad](https://github.com/amifunny/Scrape-Pad-Browser-Extension) : Quickly take notes and export docs
-  - [CommentX](https://github.com/amifunny/CommentX) : Read and write comments on any web URL
+<ul>
+  <li>Chrome Extensions
+    <ul>
+      <li><a href="https://github.com/amifunny/Dark_Mode_Chrome">Dark-Mode-Chrome</a>: Makes reading easy in dark on any website</li>
+      <li><a href="https://github.com/amifunny/Scrape-Pad-Browser-Extension">Scrape-Pad</a>: Quickly take notes and export docs</li>
+      <li><a href="https://github.com/amifunny/CommentX">CommentX</a>: Read and write comments on any web URL</li>
+    </ul>
+  </li>
+</ul>
 
 My DDPG tutorial on Keras website - https://keras.io/examples/rl/ddpg_pendulum/
